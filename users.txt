@@ -1,0 +1,6 @@
+george
+adio
+false
+patrasc
+baba
+true

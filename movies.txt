@@ -1,0 +1,64 @@
+The Godfather
+1972
+Drama
+10
+100000
+Francis Ford Coppola
+175
+15
+The Shawshank Redemption
+1994
+Action
+8
+10000
+Frank Darabont
+142
+15
+The Godfather: Part II
+1974
+Drama
+10
+101000
+Francis Ford Coppola
+202
+18
+Joker
+2019
+Comedy
+7
+18000
+Todd Phillips
+122
+12
+Toy Story 3
+2010
+Animation
+6
+9000
+Lee Unkrich
+103
+3
+Fast and Furious
+2001
+Action
+6
+10000
+Rob Cohen
+106
+15
+Schindler's List
+1993
+Drama
+9
+50000
+Steven Spielberg
+195
+15
+Anger Management
+2003
+Comedy
+6
+18000
+Peter Segal
+106
+15
